@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @toutbien
-- 👀 I’m interested in sci-fi, strength, meditation, and learning.
-- 🌱 I’m currently learning data analyzation, basics in Python, and French.
-- 💞️ I’m looking to collaborate on something easy.
+- 👀 I’m interested in meditation, bicycles, and learning.
+- 🌱 I’m currently learning Powershell, basics in Python, and French.
+- 💞️ I’m looking to find a path forward in this wide world of technological enterprise.
 - 📫 How to reach me toutbien@protonmail.com
 
 <!---
