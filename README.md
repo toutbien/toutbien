@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @toutbien
-- 👀 I’m interested in meditation, bicycles, and learning.
-- 🌱 I’m currently learning Powershell, basics in Python, and French.
+- 👋 Hi, I’m Lisa!
+- 👀 I’m interested in programming, meditation, and deep dives.
+- 🌱 I’m currently learning Powershell, Python, and French.
 - 💞️ I’m looking to find a path forward in this wide world of technological enterprise.
 - 📫 How to reach me toutbien@protonmail.com
 
