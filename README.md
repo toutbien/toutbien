@@ -3,8 +3,8 @@
       
 <a href="https://discord.com/channels/@toutbien"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/stanleylm"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:toutbien@protonmail.com"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" /a></a>
-<a href="https://www.freecodecamp.org/toutbien"><img src"https://img.shields.io/badge/free%20code%20camp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white" /a></a>
+<a href="mailto:toutbien@protonmail.com"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" /></a>
+<a href="https://www.freecodecamp.org/toutbien"><img src="https://img.shields.io/badge/free%20code%20camp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white" /></a>
 
 <!---
       https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white
@@ -22,7 +22,7 @@
 ---!>
 
 - 👀 I’m interested in programming, meditation, and deep dives.
-- 🌱 I’m currently learning <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=PowerShell&logoColor=white"> Azure, <img src="https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white"> and cloud administration through <img src="https://img.shields.io/badge/Microsoft-666666?style=for-the-badge&logo=microsoft&logoColor=white"> Software and Systems Academy.
+- 🌱 I’m currently learning <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=PowerShell&logoColor=white">/a><img src="https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white"></a> and cloud administration through <img src="https://img.shields.io/badge/Microsoft-666666?style=for-the-badge&logo=microsoft&logoColor=white"></a> Software and Systems Academy.
 - 💞️ I’m looking to find a path forward in this wide world of technological enterprise.
 - 📫 How to reach me toutbien@protonmail.com
 
