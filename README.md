@@ -28,3 +28,4 @@
 <!---
 (https://github-readme-stats.vercel.app/api/top-langs/?username=toutbien)
 ---!>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=toutbien&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
