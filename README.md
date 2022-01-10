@@ -3,7 +3,10 @@
       
 <a href="https://discord.com/channels/@toutbien"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/stanleylm"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:toutbien@protonmail.com"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" /a></a>
+<a href="https://www.freecodecamp.org/toutbien"><img src"https://img.shields.io/badge/free%20code%20camp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white" /a></a>
 
+<!---
       https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white
  	https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white
       https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white
@@ -14,9 +17,12 @@
       https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white
       https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white
       https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white
+      https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white
+      https://img.shields.io/badge/Signal-3A76F0?style=for-the-badge&logo=signal&logoColor=white
+---!>
 
 - 👀 I’m interested in programming, meditation, and deep dives.
-- 🌱 I’m currently learning Powershell, Python, and French.
+- 🌱 I’m currently learning <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=PowerShell&logoColor=white"> Azure, <img src="https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white"> and cloud administration through <img src="https://img.shields.io/badge/Microsoft-666666?style=for-the-badge&logo=microsoft&logoColor=white"> Software and Systems Academy.
 - 💞️ I’m looking to find a path forward in this wide world of technological enterprise.
 - 📫 How to reach me toutbien@protonmail.com
 
@@ -25,3 +31,5 @@ toutbien/toutbien is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=toutbien)](https://github.com/anuraghazra/github-readme-stats)
+
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=toutbien">
