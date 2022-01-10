@@ -1,4 +1,4 @@
-<img src="/toutbien/toutbien/blob/181d3f9caaef6dce2ba9006e84dc2bd212c86b26/Black%20Abstract%20We%20Are%20Hiring%20LinkedIn%20Banner.png" />
+<img src="https://toutbien/toutbien/blob/181d3f9caaef6dce2ba9006e84dc2bd212c86b26/Black%20Abstract%20We%20Are%20Hiring%20LinkedIn%20Banner.png" />
       
       
 <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" /> toutbien</p>
