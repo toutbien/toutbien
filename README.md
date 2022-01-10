@@ -32,8 +32,8 @@
 <a href="https://github.com/toutbien/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=toutbien&repo=github-readme-stats" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+<a href="https://github.com/toutbien/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=toutbien&repo=convoychat" />
 </a>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=toutbien)](https://github.com/anuraghazra/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=toutbien&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=toutbien)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=toutbien&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
