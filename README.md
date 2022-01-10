@@ -23,7 +23,7 @@
 <center><h3>
 - 👀 I’m interested in programming, meditation, and deep dives.<br>
 - 🌱 I’m currently learning <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=PowerShell&logoColor=white"><img src="https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white"> and more !</h3><br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=toutbien&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
       <hr><br>
       </center>
