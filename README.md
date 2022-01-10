@@ -22,9 +22,18 @@
 ---!>
 <center><h3>
 - 👀 I’m interested in programming, meditation, and deep dives.<br>
-- 🌱 I’m currently learning <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=PowerShell&logoColor=white"><img src="https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white"> and more !</h3><br><hr><br>
+- 🌱 I’m currently learning <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=PowerShell&logoColor=white"><img src="https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white"> and more !</h3><br>
+      <hr><br>
+      </center>
 <!---
 (https://github-readme-stats.vercel.app/api/top-langs/?username=toutbien)
 ---!>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=toutbien)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=toutbien&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+<a href="https://github.com/toutbien/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=toutbien&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+</a>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=toutbien)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=toutbien&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
