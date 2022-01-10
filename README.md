@@ -20,11 +20,9 @@
       https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white
       https://img.shields.io/badge/Signal-3A76F0?style=for-the-badge&logo=signal&logoColor=white
 ---!>
-<center><h2>
+<center><h3>
 - 👀 I’m interested in programming, meditation, and deep dives.<br>
-- 🌱 I’m currently learning <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=PowerShell&logoColor=white"><img src="https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white"> and more ! <br><hr><br>
-
+- 🌱 I’m currently learning <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=PowerShell&logoColor=white"><img src="https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white"> and more !</h3><br><hr><br>
+(https://github-readme-stats.vercel.app/api/top-langs/?username=toutbien)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=toutbien)](https://github.com/anuraghazra/github-readme-stats)
 
-(https://github-readme-stats.vercel.app/api/top-langs/?username=toutbien)
-</center>
