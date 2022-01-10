@@ -1,7 +1,7 @@
 <div style="position: relative; width: 100%; height: 0; padding-top: 25.0000%;<p align=”center”>
             
-<img width=”200" height=”200" src="https://github.com/toutbien/toutbien/blob/main/Black%20Abstract%20We%20Are%20Hiring%20LinkedIn%20Banner.png?raw=true" alt="My Banner">
-
+<img width=”200" height=”200" src="/toutbien/toutbien/blob/181d3f9caaef6dce2ba9006e84dc2bd212c86b26/Black%20Abstract%20We%20Are%20Hiring%20LinkedIn%20Banner.png alt=My Banner">
+</p>
 
 - 👀 I’m interested in programming, meditation, and deep dives.
 - 🌱 I’m currently learning Powershell, Python, and French.
