@@ -1,7 +1,7 @@
-<div style="position: relative; width: 100%; height: 0; padding-top: 25.0000%;<p align=”center”>
-            
-<img width=”200" height=”200" src="/toutbien/toutbien/blob/181d3f9caaef6dce2ba9006e84dc2bd212c86b26/Black%20Abstract%20We%20Are%20Hiring%20LinkedIn%20Banner.png alt=My Banner">
-</p>
+<img src="/toutbien/toutbien/blob/181d3f9caaef6dce2ba9006e84dc2bd212c86b26/Black%20Abstract%20We%20Are%20Hiring%20LinkedIn%20Banner.png" />
+      
+      
+<img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" /> toutbien</p>
 
 - 👀 I’m interested in programming, meditation, and deep dives.
 - 🌱 I’m currently learning Powershell, Python, and French.
