@@ -22,7 +22,7 @@
 ---!>
 <center>
 - 👀 I’m interested in programming, meditation, and deep dives.<br>
-- 🌱 I’m currently learning <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=PowerShell&logoColor=white"><img src="https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white"><img src="https://img.shields.io/badge/Microsoft-666666?style=for-the-badge&logo=microsoft&logoColor=white"><br> in the Cloud Administration Course - Software and Systems Academy.
+- 🌱 I’m currently learning <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=PowerShell&logoColor=white"><img src="https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white"> and more ! <br>
 </center>
 <!---
 toutbien/toutbien is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
