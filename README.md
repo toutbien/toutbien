@@ -28,10 +28,3 @@
 <!---
 (https://github-readme-stats.vercel.app/api/top-langs/?username=toutbien)
 ---!>
-
-<a href="https://github-readme-stats.vercel.app/api?username=toutbien">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=toutbien&repo=github-readme-stats" />
-</a>
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=toutbien&layout=compact">
-  <img align="center" src="https://github.com/anuraghazra/github-readme-stat" />
-</a>
