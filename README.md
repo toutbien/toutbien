@@ -1,5 +1,5 @@
 
-![My_Banner]
+//
       
 <a href="https://discord.com/channels/@toutbien"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" /> </a>
 <a href="https://www.linkedin.com/in/stanleylm"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
