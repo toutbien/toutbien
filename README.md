@@ -1,5 +1,5 @@
 
-![My_Banner](https://github.com/toutbien/toutbien/blob/main/Black%20Abstract%20We%20Are%20Hiring%20LinkedIn%20Banner.png?raw=true)
+![My_Banner]
       
 <a href="https://discord.com/channels/@toutbien"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" /> </a>
 <a href="https://www.linkedin.com/in/stanleylm"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
