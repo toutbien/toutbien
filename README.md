@@ -24,8 +24,7 @@
       https://img.shields.io/badge/Signal-3A76F0?style=for-the-badge&logo=signal&logoColor=white
 ---!>
 <center><h3>
-- 👀 I’m interested in programming, meditation, and deep dives.<br>
-- 🌱 I’m currently learning <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=PowerShell&logoColor=white"><img src="https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white"><img src="https://img.shields.io/badge/Azure_Functions-0062AD?style=for-the-badge&logo=azure-functions&logoColor=white"> and more !</h3><br>
+- 👀 I’m interested in automation, cybersecurity stuff, meditation, and deep dives.<br>
 
 
       <hr><br>

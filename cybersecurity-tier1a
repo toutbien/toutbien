@@ -1,0 +1,28 @@
+sudo apt update sudo apt upgrade -y sudo apt install netcat 
+
+Second Flag:
+sudo apt update sudo apt upgrade -y sudo apt install netcat 
+
+///CHallenge 3
+
+
+
+My attempt:
+I tried to run it first in CLI
+
+
+No dice. So I researched (one google away) “LF 64-bit LSB pie executable”
+Where I located information about reverse engineering https://reverseengineering.stackexchange.com/questions/3815/reversing-elf-64-bit-lsb-executable-x86-64-gdb
+
+I tried the “elf” menu 
+
+and decided to try “all”.
+by running: readelf -a ./program
+That returned a lof of information, but most curious for me was:
+
+
+So I tried simply referencing the library of available commands from readelf, 
+ultimately selecting 
+
+Looks benign, but at the bottom of that return, I found the flag.
+
