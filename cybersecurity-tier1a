@@ -26,3 +26,99 @@ ultimately selecting
 
 Looks benign, but at the bottom of that return, I found the flag.
 
+//
+\na7\x203\x20b4\x20bd\x207d\x2090\x203b\x209\x20c
+f\x206b\x20af\x2067\x2023\x20ab\x2040\x2075\x208d\x20e2\x20da\x20eb\x20
+f\x20f\x209f\x2095\x20bd\x2030\x20c7\x20f\x2092\x205\x2016\x2039\x208\x
+20ca\x20f6\x2085\x205a\x2032\x208f\x2029\x209d\x203e\x2090\x20c0\x20ea\
+x20d1\x2035\x2077\x20b3\x20f\x2062\x20c2\x201e\x201\x2058\x20db\x2031\x
+201f\x20ea\x20c4\x2024\x200\x20fd\x202c\x20ca\x20f4\x20b2\x2024\x2026\x
+2041\x204d\x20c3\x207f\x20de\x2084\x2069\x20af\x20b9\x20e0\x2062\x20c9\
+x2042\x2025\x20e7\x2044\x207d\x20c3\x2075\x209c\x20ad\x2039\x20c1\x20ae
+\x2037\x20ed\x2078\x202b\x209f\x209d\x2051\x20e0\x20ea\x2014\x2060\x20c
+8\x2098\x20c9\x2077\x2052\x20aa\x20da\x201b\x20ec\x20ff\x202\x2030\x207
+c\x20c5\x20a6\x2018\x2073\x20df\x20d9\x2021\x2016\x20c7\x2099\x2041\x20
+66\x2036\x2092\x2047\x2021\x20a7\x20a7\x20e9\x203f\x2070\x2061\x2091\x2
+01a\x203b\x20ac\x207\x203a\x20af\x2037\x20b6\x2074\x20dd\x20ce\x20e7\x2
+0bd\x20a8\x208\x20d3\x206f\x20a2\x2015\x20d5\x20d8\x20a7\x201c\x20f9\x2
+04e\x20c3\x20e3\x208e\x2034\x2044\x201f\x204e\x207f\x20cc\x2055\x20b9\x
+207b\x208d\x206f\x20ef\x206a\x203d\x20d7\x2027\x20e5\x20df\x20fb\x2054\
+x2081\x2010\x202a\x205a\x20b7\x2046\x2053\x206\x20a\x2036\x2094\x203e\x
+207a\x20b3\x208c\x20f9\x207f\x20e2\x20b2\x20fa\x206f\x2021\x20ea\x20d9\
+x205f\x20c1\x201\x2044\x20a0\x20fc\x2099\x2022\x20c\x20c3\x207c\x20c3
+
+
+
+
+//
+open:
+nmap -v -A 3-nh01.bootupctf.net -Pn
+8011/tcp 18.235.35.9
+7911 18.235.35.9
+8010
+
+80 on 192.168.1.52.1
+53 on ^
+443 on ^18.235.35.9
+
+5ORT    STATE SERVICE  VERSION
+53/tcp  open  domain   dnsmasq 2.84rc2
+| dns-nsid: 
+|_  bind.version: dnsmasq-2.84rc2
+80/tcp  open  http     lighttpd 1.4.59
+| http-methods: 
+|_  Supported Methods: GET HEAD POST OPTIONS
+|_http-server-header: lighttpd/1.4.59
+|_http-title: Site doesn't have a title.
+443/tcp open  ssl/http lighttpd 1.4.59
+| http-methods: 
+|_  Supported Methods: OPTIONS GET HEAD POST
+|_http-server-header: lighttpd/1.4.59
+| tls-alpn: 
+|   http/1.0
+|   http/1.1
+|_  h2
+|_ssl-date: TLS randomness does not represent time
+| ssl-cert: Subject: commonName=self-signedKey/organizationName=Sagemcom Ca/countryName=FR
+| Issuer: commonName=self-signedKey/organizationName=Sagemcom Ca/countryName=FR
+| Public Key type: rsa
+| Public Key bits: 1024
+| Signature Algorithm: sha256WithRSAEncryption
+
+
+nikto:
+found 52.23.138.145 and 18.235.25.9
+/home/kali/Downloads/fe03
+
+SCAN
+18.235.25.9
+
+
+//
+work service at 3-bh02.bootupctf.net port: 8221 and find flag
+
+18.235.35.9
+8010/tcp on 18.235.35.9 xmpp
+7911/tcp on 18.235.35.9 unk
+
+└─$ telnet 18.235.35.9 8221                                                 
+Trying 18.235.35.9...
+Connected to 18.235.35.9.
+Escape character is '^]'.
+Let's see you take over.
+Get the flag from the following functions at these addresses:
+
+
+Fn 3: 0x5658c6f1  = 86.88.198.241
+Fn 2: 0x5658c6af = 86.88.198.175
+Fn 1: 0x5658c66d = 86.88.198.109
+
+
+////
+THE FLAG IS THE KEY
+e20bcbae173194dbf1022a74a6f7c913
+595d5862a621a69bb08d492e4a09f0e4d9010965
+f505e1b853c152f229c0cad0cf6c14221427c16b7126e1908131f73e2821572d
+d0663821
+
+///
