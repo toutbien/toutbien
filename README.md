@@ -21,7 +21,7 @@
 <center><h3>
 - 👀 I’m interested in cybersecurity, linux, and ctfs.<br>
 - 🌱 I’m currently learning <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=PowerShell&logoColor=white"> and <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen"> using <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" </h3><br>
-      <hr><br>
+      <hr><br>**Appreciate any opportunity to connect, learn, and grow together!
+      <br>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=toutbien">**
       </center>
-
-https://github-readme-stats.vercel.app/api/top-langs/?username=toutbien
