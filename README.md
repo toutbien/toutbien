@@ -20,9 +20,8 @@
 ---!>
 <center><h3>
 - 👀 I’m interested in cybersecurity, linux, and ctfs.<br>
-- 🌱 I’m currently learning <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=PowerShell&logoColor=white"><img src="https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white"><img src="https://img.shields.io/badge/Azure_Functions-0062AD?style=for-the-badge&logo=azure-functions&logoColor=white"> and more !</h3><br>
+- 🌱 I’m currently learning <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=PowerShell&logoColor=white"> and <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen"> using <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" </h3><br>
       <hr><br>
       </center>
-<!---
-(https://github-readme-stats.vercel.app/api/top-langs/?username=toutbien)
----!>
+
+https://github-readme-stats.vercel.app/api/top-langs/?username=toutbien
