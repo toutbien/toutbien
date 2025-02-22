@@ -13,7 +13,7 @@ Fan of <img src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-ba
     <br>🚧 Work in Progress 🚧</div><ul>
     <div class="about-me">
         <p>Hi! I'm gr8goat. A Graduate of Microsoft Software and Systems Academy, Cyber2Work SOC Analyst Pathway, Purdue University Cybersecurity and AI Certificate, IBM's Data Analytics Certificate, GuidePoint Security Cybersecurity Internship Program, AWS All Builder's Grantee and New Voices Grad!<br>
-<p></p>coding makes things easier</p>
+<p></p>
         <ul>
             <li>🌟 Really interested in IaC, cybersecurity, data and securing AI</li>
             <li>🌍 Big on expanding minds and experiences through traveling</li>
@@ -23,7 +23,7 @@ Fan of <img src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-ba
         <div class="emoji">✨🌈🚀🎉</div>
     </div>
 
-      <hr><br>Appreciate any opportunity to connect, learn, and grow together!
+      <hr><br>coding makes things easier
 </body>
 </html>
       <br>
