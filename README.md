@@ -26,7 +26,4 @@ Fan of <img src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-ba
       coding makes things easier
 </body>
 </html>
-      <br>
-      [![Repos Badge](https://badges.pufler.dev/repos/pujux)](https://badges.pufler.dev)
-      [![Years Badge](https://badges.pufler.dev/years/pujux)](https://badges.pufler.dev)
-      </center>
+
