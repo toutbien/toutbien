@@ -6,15 +6,9 @@
 <a href="https://bit.ly/3Gt8Srb"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" /> </a>
 
 <center><h3>
-Fan of <img src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white"> Linux flavors<br>
-<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen"> Snakes<br>
-<img src="ttps://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white"> Pie <br>
-<img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white"> Solar Systems <br>
-and dogs.
+Fan of <img src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white"> Linux flavors, <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen"> Snakes, <img src="ttps://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white"> Pie, <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white"> Solar Systems, and dogs.
 <br> <br> 
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>About Me</title>
     <style>
         .scrolling-text {
@@ -24,24 +18,9 @@ and dogs.
             white-space: nowrap;
             animation: scroll-left 10s linear infinite;
         }
-
-        @keyframes scroll-left {
-            0% {
-                transform: translateX(100%);
-            }
-            100% {
-                transform: translateX(-100%);
-            }
-        }
-        .emoji {
-            font-size: 36px;
-            margin: 10px 0;
-        }
-    </style>
 </head>
 <body>
     <div class="scrolling-text">🚧 In Progress 🚧</div>
-
     <div class="about-me">
         <p>Hi! I'm [Your Name] and I'm always excited to learn and grow. Here are a few things about me:</p>
         <ul>
