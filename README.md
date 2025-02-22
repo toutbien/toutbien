@@ -10,19 +10,10 @@ Fan of <img src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-ba
 <br> <br> 
 <head>
     <title>About Me</title>
-    <style>
-        .scrolling-text {
-            font-size: 24px;
-            font-weight: bold;
-            overflow: hidden;
-            white-space: nowrap;
-            animation: scroll-left 10s linear infinite;
-        }
-</head>
-<body>
-    <div class="scrolling-text">🚧 In Progress 🚧</div>
+    <br>🚧 In Progress 🚧</div>
     <div class="about-me">
-        <p>Hi! I'm [Your Name] and I'm always excited to learn and grow. Here are a few things about me:</p>
+        <p>Hi! I'm gr8goat. Graduate of Microsoft Software and Systems Academy, Cyber2Work SOC Analyst Pathway, Purdue University Cybersecurity and AI Certificate, IBM's Data Analytics Certificate, GuidePoint Security Cybersecurity Internship Program, AWS All Builder's Grantee and New Voices Grad!
+<p></p> Here are a few things about me:</p>
         <ul>
             <li>🌟 Really interested in IaC, cybersecurity, data and securing AI</li>
             <li>🌍 Big on expanding minds and experiences through traveling</li>
