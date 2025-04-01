@@ -12,7 +12,7 @@
     <h3>About Me</h3>
     <br>🚧 Work in Progress 🚧</div><ul>
     <div class="about-me">
-        <p>Hi! I'm gr8goat. A Graduate of Microsoft Software and Systems Academy, Cyber2Work SOC Analyst Pathway, Purdue University Cybersecurity and AI Certificate, IBM's Data Analytics Certificate, GuidePoint Security Cybersecurity Internship Program, AWS All Builder's Grantee and New Voices Grad!<br>
+        <p>Hi! I'm a Graduate of Microsoft Software and Systems Academy, Cyber2Work SOC Analyst Pathway, Purdue University Cybersecurity and AI Certificate, IBM's Data Analytics Certificate, GuidePoint Security Cybersecurity Internship Program, AWS All Builder's Grantee and New Voices Grad!<br>
 <p></p>
         <ul>
             <li>🌟 Really interested in IaC, cybersecurity, data and securing AI</li>
