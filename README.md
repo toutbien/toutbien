@@ -7,9 +7,10 @@
 <center>
 <head>
     <h3>About Me</h3>
-    <br>🚧 Work in Progress 🚧</div><ul>
+    <br>🚧 🚧</div>
     <div class="about-me">
         <p>Hi! I'm a Graduate of Microsoft Software and Systems Academy, Cyber2Work SOC Analyst Pathway, Purdue University Cybersecurity and AI Certificate, IBM's Data Analytics Certificate, GuidePoint Security's Cybersecurity Internship Program, and am an AWS All Builder's Grantee and New Voices Grad!<br>
+ <br> I've done some other stuff, too, but feel free to ask me questions about any of that. Anytime.<br>
 <p></p>
         <ul>
             <li>🌟 Really interested in IaC, data and securing data</li>
