@@ -13,9 +13,9 @@
  <br> I've done some other stuff, too, but feel free to ask me questions about any of that. Anytime.<br>
 <p></p>
         <ul>
-            <li>🌟 Really interested in IaC, data and securing data</li>
-            <li>🌍 Big on expanding minds and experiences through traveling</li>
-            <li>📚 Currently honing skills in Jenkins, </li>
+            <li>🌟 Really interested in IaC, data security and becoming a better platform engineer in the cloud.</li>
+            <li>🌍 Big on expanding minds and experiences through traveling.</li>
+            <li>📚 Currently honing skills in Jenkins, CI/CD and APIs.</li>
             <li>🐾 Senior pet = best friend </li>
         </ul>
         <div class="emoji">✨🌈🚀🎉</div>
